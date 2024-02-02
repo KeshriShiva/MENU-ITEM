@@ -1,0 +1,31 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+.menu-container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 50px;
+}
+
+h2 {
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.menu-item {
+	margin-bottom: 50px;
+}
+
+.menu-item h3 {
+	text-decoration: underline;
+	margin-bottom: 20px;
+}
+
+.menu-item p {
+	margin-bottom: 20px;
+}
